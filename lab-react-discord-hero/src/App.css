@@ -1,0 +1,9 @@
+.background {
+  background-color: #1851e5;
+  height: 1000px;
+  padding: 0px 40px;
+}
+
+.ButtonImageGroup {
+  display: flex;          
+}

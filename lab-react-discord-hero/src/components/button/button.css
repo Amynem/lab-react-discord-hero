@@ -1,0 +1,26 @@
+.Button {
+    display: block;
+    margin-top: 15px;
+    padding: 20px 30px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: none;
+    text-align: left;
+    font-size: medium;
+}
+
+.Button:hover {
+    opacity: 80%;
+    transition: 0.5s;
+}
+
+.Button.light {
+    background-color: white;
+    color: black;
+    margin-top: 50px;
+}
+
+.Button.dark {
+    background-color: black;
+    color: white;
+}
